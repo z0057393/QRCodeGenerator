@@ -74,8 +74,12 @@ with the parameters size and content
 
 <!-- ROADMAP -->
 ## Roadmap
-WIP
-<!-- - [x] Add Changelog
+
+- [ ] Add Changelog
+- [ ] Add License
+- [ ] Securing the API 
+
+<!-- - 
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
