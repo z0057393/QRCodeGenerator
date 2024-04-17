@@ -44,14 +44,34 @@ This is an example of how to list things you need to use the software and how to
 ### Development
 
 
-WIP
+You could make any modification in the code by using dev container extension 
+
+Make sure your docker engine is running.
+
+Dev container should detect the .devcontainer folder and ask you to reopen the container. 
+
+If not use the VS Code Command Palette to reopen it 
+
+You can access the VS Code Command Palette in a number of ways. 
+Shift + Command + P (Mac) / Ctrl + Shift + P (Windows/Linux). 
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-WIP
+Start the API 
+
+```sh
+    go run main.go
+```
+
+In localhost the API should be accesible with the URL : localhost:8080
+Use the route (POST method): /api/generate 
+with the parameters size and content 
+
+
+
 <!-- ROADMAP -->
 ## Roadmap
 WIP
